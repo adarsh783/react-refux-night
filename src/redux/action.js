@@ -1,0 +1,6 @@
+export const TeamActions = {
+  ADD_PLAYER: "ADD_PLAYER",
+  ADD_TEAM: "ADD_TEAM",
+  REMOVE_PLAYER: "REMOVE_PLAYER",
+  REMOVE_TEAM: "REMOVE_TEAM",
+};
